@@ -10,6 +10,7 @@ do
         echo "$itr character is needed to crash";
 	break
     fi
+# Remember to kill the app
     pkill vulnApp;
 
 
